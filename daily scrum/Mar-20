@@ -1,0 +1,21 @@
+Amy:
+  Yesterday:
+    - Cypress E2E test
+  Today:
+    - Display which user is signed in and private routing
+  What was in my way:
+    - Necessary Firebase library imports
+Nicole:
+  Yesterday:
+    - Unit tests for Jest tests
+  Today:
+    - Delete notes feature
+  What was in my way:
+    - NA
+Eileen:
+  Yesterday:
+    - Unit tests for Jest tests
+  Today:
+    - Displaying members per group and program/course info
+  What was in my way:
+    - NA

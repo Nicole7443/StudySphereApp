@@ -1,0 +1,22 @@
+Amy:
+  Yesterday:
+    - Planning single group page layout
+  Today:
+    - Fixed routing auth and conditional rendering
+    - single groups page
+  What was in my way:
+    - NA
+Nicole:
+  Yesterday:
+    - render logic for program/course if empty for note results
+  Today:
+    - Created Note component for reusable note rendering for several pages along with updating notes displayed based on signed in user
+  What was in my way:
+    - NA
+Eileen:
+  Yesterday:
+    - Planning layout for dashboard page
+  Today:
+    - Created 3 components for dashboard (my groups, find group, create a group) and rendered it on dashboard page
+  What was in my way:
+    - NA

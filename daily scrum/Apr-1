@@ -1,0 +1,24 @@
+Amy:
+  Yesterday:
+    - Fixed routing auth and conditional rendering
+  Today:
+    - Fixed routing auth and conditional rendering
+    - Creating Group Detail component
+  What was in my way:
+    - Waited for Note page component - now complete
+Nicole:
+  Yesterday:
+    - Created Note component for reusable note rendering for several pages along with updating notes displayed based on signed in user
+  Today:
+    - Fix MySQL tables to allow group notes rendering
+    - Fixing Jest files and UI for app
+  What was in my way:
+    - NA
+Eileen:
+  Yesterday:
+    - Created 3 components for dashboard (my groups, find group, create a group) and rendered it on dashboard page
+  Today:
+    - Fix Group API calls and remove program field from group
+    - Fix Group APIs to show group data for user signed in not just one user
+  What was in my way:
+    - NA

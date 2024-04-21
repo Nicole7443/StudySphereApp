@@ -1,0 +1,21 @@
+Amy:
+  Yesterday:
+    - Fixed render for profile page
+  Today:
+    - Cypress E2E test
+  What was in my way:
+    - NA
+Nicole:
+  Yesterday:
+    - Created error handling for node add feature
+  Today:
+    - Unit tests for Jest tests
+  What was in my way:
+    - NA
+Eileen:
+  Yesterday:
+    - Created UI to search for members
+  Today:
+    - Unit tests for Jest tests
+  What was in my way:
+    - NA

@@ -1,0 +1,25 @@
+Amy:
+  Yesterday:
+    - Fixed routing auth and conditional rendering
+    - Creating Group Detail component
+    - Fix MySQL tables to allow group notes rendering
+  Today:
+    - Integrating the note component into group page
+  What was in my way:
+    - NA
+Nicole:
+  Yesterday:
+    - Fix MySQL tables to allow group notes rendering
+  Today:
+    - Creating Note component
+  What was in my way:
+    - NA
+Eileen:
+  Yesterday:
+    - Fix Group API calls and remove program field from group
+    - Fix Group APIs to show group data for user signed in not just one user
+  Today:
+    - Create alerts for Create Group component (success/error message)
+    - Fix API to add users to group
+  What was in my way:
+    - Error messages I created kept popping up 

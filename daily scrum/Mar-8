@@ -1,0 +1,21 @@
+Amy:
+  Yesterday:
+    - Fixed authentication Firebase error
+  Today:
+    - developing APIs for groups page with Eileen
+  What was in my way:
+    - NA
+Nicole:
+  Yesterday:
+    - Updated MySQL tables to implement new file types (PDF etc.)
+  Today:
+    - Developing APIs to upload different file types to MySQL
+  What was in my way:
+    - NA
+Eileen:
+  Yesterday:
+    - Added "my groups" button using mock data 
+  Today:
+    - Working on creating API to replace mock data used to test "my groups"
+  What was in my way:
+    - NA

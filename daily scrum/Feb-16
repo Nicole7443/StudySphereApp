@@ -1,0 +1,22 @@
+Amy:
+  Yesterday:
+    - Working on configuring MySQL tables
+  Today:
+    - Looking into Firebase authentication documentation
+  What was in my way:
+    - NA
+Nicole:
+  Yesterday:
+    - developed logic for note sharing/viewing page
+    - creating note table in MySQL with test data to finetune note page
+  Today:
+    - Setting up / testing Cypress and Jest for project repo
+  What was in my way:
+    - Issue opening Cypress on local machine using yarn cypress
+Eileen:
+  Yesterday:
+    - Designing group profile page overall functionality
+  Today:
+    - Designing group profile page features and layout
+  What was in my way:
+    - NA

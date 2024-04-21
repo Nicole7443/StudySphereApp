@@ -1,0 +1,23 @@
+Amy:
+  Yesterday:
+    - Working on app routing with different pages
+  Today:
+    - creating group details page
+  What was in my way:
+    - NA
+Nicole:
+  Yesterday:
+    - Created Note component for group page
+  Today:
+    - Creating searchNote component for group page
+    - Jest tests
+    - fixing UI
+  What was in my way:
+    - NA
+Eileen:
+  Yesterday:
+    - Worked on APIs for joung a group
+  Today:
+    - Implemented navigation to group page upon creating or joining a group
+  What was in my way:
+    - N/A
